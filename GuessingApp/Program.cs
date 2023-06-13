@@ -30,7 +30,7 @@ namespace GuessingApp
               int correctNumb = random.Next(1, 10);
 
 
-              Console.WriteLine("Guess a new Number between 1 ans 10");
+              Console.WriteLine("Guess a winning Number between 1 and 10");
 
 
               //while guess is not correct
