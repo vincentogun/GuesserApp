@@ -1,0 +1,14 @@
+C:\Users\Anuoluwa\source\repos\GuessingApp\GuessingApp\bin\Debug\netcoreapp3.1\GuessingApp.exe
+C:\Users\Anuoluwa\source\repos\GuessingApp\GuessingApp\bin\Debug\netcoreapp3.1\GuessingApp.deps.json
+C:\Users\Anuoluwa\source\repos\GuessingApp\GuessingApp\bin\Debug\netcoreapp3.1\GuessingApp.runtimeconfig.json
+C:\Users\Anuoluwa\source\repos\GuessingApp\GuessingApp\bin\Debug\netcoreapp3.1\GuessingApp.runtimeconfig.dev.json
+C:\Users\Anuoluwa\source\repos\GuessingApp\GuessingApp\bin\Debug\netcoreapp3.1\GuessingApp.dll
+C:\Users\Anuoluwa\source\repos\GuessingApp\GuessingApp\bin\Debug\netcoreapp3.1\GuessingApp.pdb
+C:\Users\Anuoluwa\source\repos\GuessingApp\GuessingApp\obj\Debug\netcoreapp3.1\GuessingApp.csproj.AssemblyReference.cache
+C:\Users\Anuoluwa\source\repos\GuessingApp\GuessingApp\obj\Debug\netcoreapp3.1\GuessingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anuoluwa\source\repos\GuessingApp\GuessingApp\obj\Debug\netcoreapp3.1\GuessingApp.AssemblyInfoInputs.cache
+C:\Users\Anuoluwa\source\repos\GuessingApp\GuessingApp\obj\Debug\netcoreapp3.1\GuessingApp.AssemblyInfo.cs
+C:\Users\Anuoluwa\source\repos\GuessingApp\GuessingApp\obj\Debug\netcoreapp3.1\GuessingApp.csproj.CoreCompileInputs.cache
+C:\Users\Anuoluwa\source\repos\GuessingApp\GuessingApp\obj\Debug\netcoreapp3.1\GuessingApp.dll
+C:\Users\Anuoluwa\source\repos\GuessingApp\GuessingApp\obj\Debug\netcoreapp3.1\GuessingApp.pdb
+C:\Users\Anuoluwa\source\repos\GuessingApp\GuessingApp\obj\Debug\netcoreapp3.1\GuessingApp.genruntimeconfig.cache
